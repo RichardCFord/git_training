@@ -1,1 +1,4 @@
 Ambers changes and she doesn't know about John's changes
+Adding some text.
+An extra line. 
+
