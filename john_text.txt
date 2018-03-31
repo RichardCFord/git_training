@@ -1,4 +1,9 @@
 Ambers changes and she doesn't know about John's changes
 Adding some text.
 An extra line. 
+
 Adding some lines of text from Amber's repository and do not wish for the explicit merge exercise .... I think.
+
+Here is another line of code for the fetch/merge exercise.
+
+>>>>>>> refs/remotes/origin/master
